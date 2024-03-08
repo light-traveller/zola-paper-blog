@@ -1,7 +1,5 @@
 # Zola-Paper Blog
-A clean blog theme based on Zola-Paper.
-
-[Zola](https://getzola.org) port of [Hugo-Paper](https://github.com/nanxiaobei/hugo-paper/) (with a few tweaks).
+A clean blog theme based on [Zola-Paper](https://github.com/schoenenberg/zola-paper).
 
 ## Installation
 

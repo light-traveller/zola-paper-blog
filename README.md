@@ -25,6 +25,7 @@ theme = "zola-paper-blog"
 
 This theme has an integration of Open Graph *meta* tags. These are set based on context and available information. See the following example:
 
+## Sample Page
 ```markdown
 +++
 title = "Lorem ipsum!"
@@ -40,7 +41,9 @@ tags = ["rust", "zola", "blog"]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <!-- more -->
-Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat...
+Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque.
+Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam.
+Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo.
 ```
 
 - The only required attributes of the `extra` section is `author`. All other attributes are optional.

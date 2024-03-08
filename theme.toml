@@ -1,13 +1,13 @@
-name = "zola-paper"
-description = "A clean theme inspired from hugo-paper."
+name = "zola-paper-blog"
+description = "A clean blog theme based on Zola-Paper."
 license = "MIT"
-homepage = "https://github.com/schoenenberg/zola-paper"
+#homepage = "https://github.com/schoenenberg/zola-paper"
 # The minimum version of Zola required
 min_version = "0.11.0"
 # An optional live demo URL
-demo = "https://schoenenberg.github.io/zola-paper"
+#demo = "https://schoenenberg.github.io/zola-paper"
 
-title = "Zola-Paper"
+title = "Zola-Paper Blog"
 
 # Any variable there can be overriden in the end user `config.toml`
 # You don't need to prefix variables by the theme name but as this will
@@ -19,10 +19,9 @@ google_analytics = { enabled = false, id = ""}
 
 # The theme author info: you!
 [author]
-name = "Maximilian Schoenenberg"
-homepage = "https://schoenenberg.dev"
+name = "Kamran Saeedi"
+#homepage = "https://*.dev"
 
 [original]
-author =  "nanxiaobei"
-homepage = "https://nanxiaobei.github.io/hugo-paper/"
-repo = "https://github.com/nanxiaobei/hugo-paper/"
+name = "Maximilian Schoenenberg"
+homepage = "https://schoenenberg.dev"
